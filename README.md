@@ -1,5 +1,5 @@
 # Search-in-Jisho
-Search in Google but for jisho.org instead
+Browser Add-On for "Search in Google" but for jisho.org instead
 
 # How to install
 ## Chrome
